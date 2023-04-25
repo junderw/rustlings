@@ -1974,6 +1974,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "keogami",
+      "name": "Keogami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41939011?v=4",
+      "profile": "http://keogami.ml",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ahresse",
+      "name": "Alexandre Esse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28402488?v=4",
+      "profile": "https://github.com/ahresse",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
